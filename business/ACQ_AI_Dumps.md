@@ -1,3 +1,838 @@
+28 Feb 2026
+```
+```markdown
+# Prosperity Pulse – Core GTM File
+
+## 1. Core Avatar
+
+### One‑sentence avatar
+
+Growth‑stage B2B SaaS founder or GTM leader doing roughly $1–8M ARR, selling $8–40k ACV deals, with at least one closer and a messy, tool‑bloated outbound setup that isn’t producing consistent qualified demos.
+
+### Prospecting avatar (what you filter for in outbound)
+
+**Company / market**
+
+- Model: B2B SaaS only (no agencies, pure services, or marketplaces)  
+- Employees: 15–100  
+- Motion: Sales‑led or hybrid PLG + sales (they run demos)  
+- Geography: English‑speaking focus (US, Canada, UK, EU, ANZ, SG)
+
+**People to target**
+
+- Job titles: Founder, Co‑Founder, CEO, CRO, VP Sales, Head of Sales  
+- Department: Sales / Revenue / GTM leadership  
+
+Use these filters on LinkedIn and similar tools to build your target lists.
+
+### Qualification avatar (what must be true after first call)
+
+**Economics**
+
+- ARR: ~ $1–8M (post‑PMF, growth stage)  
+- ACV: $8–40k/year  
+- Customers: 20+ paying customers  
+- At least 1 full‑time closer (founder can still sell alongside)  
+- Close rate on qualified opps ≥ 20% from inbound / referrals  
+- Can realistically handle +10–20 qualified demos/month without breaking  
+
+**Tech & ops (your edge)**
+
+- Using a mainstream CRM (HubSpot, Salesforce, Pipedrive, etc.)  
+- Using CRM + at least one outbound / data tool (Apollo, Clay, Outreach, Lemlist, Sales Nav, Clearbit, etc.)  
+- Outbound reporting is fragmented or non‑existent  
+- Follow‑ups and handoffs are partly manual (spreadsheets, Slack, “tribal knowledge”)  
+- They’ve already tried some form of outbound (agency, SDR, tools) and are disappointed with consistency  
+
+**Psychographic**
+
+- Founder / GTM leader personally stressed about pipeline in weekly reviews  
+- Cares about measurable results (demos, opps, pipeline)  
+- Mentally comfortable with ~$3–8k/month if it predictably adds pipeline  
+- Prefers clear math and visibility over “black‑box” agencies  
+
+### Disqualifiers (hard no for core offer)
+
+- Pre‑revenue or <20 paying customers  
+- ACV < $7–8k or mostly tiny $100–$300/month plans  
+- 100% PLG, no sales process, no demos  
+- No closer and no plan to hire one (“we just want you to book demos”)  
+- Cannot handle +10 demos/month or refuses to track basic funnel metrics  
+- Wants a fully hands‑off, “set‑and‑forget” magic system in 30 days  
+
+### First‑call fast qualifiers
+
+1. “What’s your current ARR and typical ACV?”  
+2. “How many demos did you run last month, and what’s your close rate?”  
+3. “What tools are you using today for outbound and tracking?”  
+4. “If we added 10–20 qualified demos/month, can your team handle them?”  
+5. “What have you already tried for outbound, and why do you think it fell short?”
+
+---
+
+## 2. Top 3 Pains
+
+1. **Inconsistent, “spiky” pipeline from outbound**  
+   - Demos from outbound feel random: some weeks decent, other weeks dead. They can’t walk into a board meeting or weekly revenue review and say, “We know we’ll get 15–25 qualified demos this month from outbound.”  
+   - Inbound / referrals are fine, but not enough to hit targets, so they’re stuck in this anxiety loop: “If outbound doesn’t work, how do we actually control growth?”
+
+2. **Messy, tool‑bloated outbound that nobody really trusts**  
+   - They’re paying for HubSpot / Salesforce + Apollo / Clay / Clearbit / Lemlist / Sales Nav, but the system is Frankensteined together. Reporting is fragmented, follow‑ups are half manual, and nobody has a single source of truth.  
+   - GTM leadership wastes time asking, “What’s working?” and getting opinions instead of clean data. Reps complain about workflows instead of booking meetings. Outbound feels harder than it should be.
+
+3. **Burned by past outbound attempts and scared of wasting more cycles**  
+   - They’ve already tried an agency, SDRs, or self‑serve tools. It generated noise, not consistent qualified demos. That scar tissue makes them skeptical of “we’ll fill your calendar” pitches.  
+   - Emotionally, they’re tired of black‑box vendors and half‑baked experiments. The real pain is: “I’m on the hook for pipeline, but every “solution” so far has burned time, money, or brand.”
+
+---
+
+## 3. Top 3 Dream Outcomes
+
+1. **Predictable, board‑ready pipeline from outbound**  
+   - A clean, believable baseline like “+10–20 qualified demos per month” that they can forecast and scale. Not a spike, a floor.  
+   - They walk into reviews knowing pipeline targets will be hit without last‑minute heroics from the founder or one rockstar rep.
+
+2. **A simple, unified outbound machine that just runs**  
+   - One coherent LinkedIn + email system: clear ICP, clean lists, tight messaging, synced tools, and accurate reporting. Everyone knows the plays, the metrics, and who owns what.  
+   - Outbound becomes a stable engine, not a side project. Follow‑ups, handoffs, and reporting are standardized, so reps sell instead of babysitting spreadsheets.
+
+3. **Control, clarity, and confidence over the whole motion**  
+   - They see exactly how outbound turns dollars and effort into demos, opps, and pipeline: clear math, clear dashboards, and short feedback loops.  
+   - Emotionally, the win is: “Outbound is a lever I control, not a gamble,” which makes them comfortable investing $3–8k/month when the path to pipeline is visible.
+
+---
+
+## 4. Core Offer – Outbound OS: 90‑Day Pipeline Sprint
+
+We design, implement, and run a unified LinkedIn + email outbound operating system that reliably produces a **baseline of +10–20 qualified demos/month** with your ICP and gives you a **single source of truth for outbound pipeline**.
+
+### 4.1 Price & Terms
+
+- **Program fee:** **$24,000** for 90 days  
+- **Payment options:**
+  - **$24k pay in full**, or  
+  - **3 × $9k monthly** (paid at kickoff, day 30, day 60)  
+
+No ongoing retainer. This is a one‑time implementation and build‑out of your outbound operating system.
+
+### 4.2 Core Deliverables (90 Days)
+
+#### Phase 1 – Outbound OS Design (Weeks 1–2)
+
+- Clarify ICP, personas, triggers based on your best customers.  
+- Map current “Frankenstack” (CRM + outbound tools).  
+- Design **one coherent flow**: account → contact → convo → demo → opp.
+
+#### Phase 2 – System Build & Tool Consolidation (Weeks 2–4)
+
+- Configure 1 primary CRM pipeline for outbound.  
+- Standardize statuses, routing, and SLAs for outbound‑sourced leads.  
+- Consolidate to 1–2 main outbound/data tools (e.g., Apollo / Clay / Sales Nav + email).
+
+#### Phase 3 – Messaging & Campaign Setup (Weeks 3–5)
+
+- Build 2–3 ICP‑specific **LinkedIn + email sequences** (30–45 days, multi‑touch).  
+- Templates for:
+  - Connection requests / intro messages  
+  - Bump emails and soft CTA follow‑ups  
+  - Nurture touches and no‑show recapture  
+
+#### Phase 4 – Live Campaign Management (Weeks 5–12)
+
+- We operate outbound inside your stack:
+  - List building and enrichment  
+  - Sequencing and reply handling  
+  - Calendar handoffs to your AEs  
+- Weekly optimization on:
+  - Positive reply rate  
+  - Demo set / show rates  
+  - Opp conversion  
+
+#### Phase 5 – Outbound Command Center
+
+- One **board‑ready dashboard** (in CRM or BI layer) showing:
+  - Outbound demos  
+  - Outbound‑sourced opps  
+  - Pipeline and wins  
+- All attributable and filterable by campaign, rep, and segment.
+
+### 4.3 Guarantee – “Board‑Ready Baseline” Guarantee
+
+If by day 90 you **do not have a live outbound OS producing at least 30 qualified demos total** (with your ICP, to your AEs’ calendars, tracked in CRM), then:
+
+1. We **work for free for up to 90 more days** until you hit 30 qualified demos total, and  
+2. If you’re on the payment plan, you **do not pay the final $9k installment** until the 30‑demo mark is hit.
+
+### 4.4 Bonuses
+
+#### Bonus 1 – Board Pack: “Outbound Math” Model
+
+- Custom spreadsheet + slide pack showing how outbound demos turn into:
+  - Opps  
+  - Pipeline  
+  - ARR (using your actual close rates and deal sizes)
+
+#### Bonus 2 – AE / SDR Enablement Kit
+
+- Handoff scripts, discovery prompts, and outbound‑origin objection handling.  
+- Follow‑up checklist from first reply → demo → closed‑won.
+
+#### Bonus 3 – Tool Bloat Savings Audit
+
+- Audit of your GTM stack with:
+  - Tools to cut or consolidate  
+  - Recommended core stack  
+  - Expected savings and simplification
+
+---
+
+## 5. 14‑Day “First 10 Customers” Rule of 100 Plan (LinkedIn DMs)
+
+### 5.1 Channel & Assumptions
+
+- **Primary channel:** LinkedIn DMs (prospecting + qualifying + booking).  
+- You have a LinkedIn profile you can optimize around this offer.  
+- You can handle 3–5 sales calls per day if the sprint works.
+
+### 5.2 Daily Rule of 100
+
+For 14 days, every single day:
+
+- **40** targeted connection requests with custom notes  
+- **40** first DMs (to new accepts + existing ICP connections)  
+- **20** follow‑ups / bumps  
+
+Total: **100 DM “actions” per day**.
+
+### 5.3 DM Scripts
+
+#### Connection request
+
+> “Hey {{FirstName}} – saw you’re leading growth at {{Company}} ({{ARR/size clue}}).  
+> I help B2B SaaS teams untangle outbound so they get a consistent +10–20 qualified demos/month without hiring a bunch of SDRs.  
+> Would love to connect and swap notes on what’s working in outbound right now.”
+
+#### First DM (after accept)
+
+> “Thanks for connecting, {{FirstName}}.  
+>  
+> Quick question: how happy are you right now with outbound as a *reliable* source of pipeline?  
+>  
+> Most teams I talk to are here:  
+> – Frankenstack of tools  
+> – Spiky weeks (some demos, some dead)  
+> – No single source of truth, so no one trusts the numbers  
+>  
+> I run a 90‑day ‘Outbound OS’ sprint where we design and run a LinkedIn + email system that reliably adds +10–20 qualified demos/month and a board‑ready outbound dashboard.  
+>  
+> If it’s useful, I can walk you through what this would look like for {{Company}} on a 20‑minute “Outbound OS Gap Audit” – no pitch, just math and gaps.  
+>  
+> Worth a quick look?”
+
+#### Follow‑up 1 (2 business days later)
+
+> “{{FirstName}} – circling back in case this got buried.  
+> Happy to map your current outbound (tools, sequences, handoffs) and show you where teams like {{Company}} usually leak 30–50% of potential demos.  
+>  
+> If I can’t find at least +10 qualified demos/month in the math, I’ll tell you straight.  
+>  
+> Open to a quick Gap Audit next week?”
+
+#### Follow‑up 2 (value drop)
+
+> “Totally get it’s busy.  
+>  
+> If a call is too much right now, I can record a 5‑minute Loom walking through how I’d simplify your outbound stack based on what’s public (site, tools, hiring, etc.).  
+>  
+> Want me to do that for {{Company}}?”
+
+#### Final nudge
+
+> “Last ping on this, {{FirstName}} – outbound is either a controllable lever or an anxiety machine.  
+>  
+> If now’s not the right time, no worries. If it *is* on your 90‑day list, I’m happy to help you pressure‑test the plan.  
+>  
+> Should I close the loop or send a couple of time options?”
+
+### 5.4 DM Qualification (before booking)
+
+Once they show interest:
+
+1. “Cool – a few quick bullets so I don’t waste your time:  
+   – Current ARR?  
+   – Typical ACV?  
+   – Roughly how many demos did you run last month, and close rate on qualified opps?”  
+
+2. “What tools are you using today for outbound + CRM?”  
+
+3. “If we added +10–20 qualified outbound demos/month, could your team actually handle them?”  
+
+If they fit:
+
+> “Got it, that’s exactly who we help.  
+> Let’s do 25 minutes to map your current ‘Frankenstack’, find the biggest demo leaks, and I’ll show you what a 90‑day Outbound OS would look like.  
+>  
+> What’s better: {{2 time options}}? Or here’s my link: {{Calendly}}.”
+
+### 5.5 14‑Day Execution Checklist
+
+**Day 1–2 – Setup**
+
+- Optimize LinkedIn profile around: “We build outbound systems that add +10–20 demos/month for B2B SaaS.”  
+- Build initial list of 150–200 ICP prospects (existing connections + new search).  
+- Create tracking sheet (see 5.6).  
+- Load scripts into a doc / snippet tool in your own voice.
+
+**Day 3–14 – Daily loop**
+
+1. 15 min – Add 20–30 new ICP prospects to your sheet.  
+2. 45–60 min – Send:
+   - 40 new connection requests (with note).  
+   - 40 first DMs (mix of new accepts + existing ICP connections).  
+3. 15–20 min – Send 20 follow‑ups from prior days.  
+4. 30–45 min – Handle replies, qualify, and book calls (always BAMFAM: book a meeting from a meeting).  
+5. 10 min – Update sheet and review: DMs sent, replies, positive replies, calls booked, shows, offers, closes.
+
+### 5.6 Simple Tracking Sheet (Google Sheets)
+
+**Columns**
+
+- Date  
+- Prospect name  
+- Company  
+- Title  
+- Source (Existing connection / New search)  
+- Step (Conn sent / DM1 / F1 / F2 / F3)  
+- Response (None / Positive / Neutral / Negative)  
+- Call booked? (Y/N + date)  
+- Show? (Y/N)  
+- Offer made? (Y/N)  
+- Closed? (Y/N)  
+- Deal value  
+
+**Daily summary cells**
+
+- Total new actions today  
+- Total replies  
+- Positive replies  
+- Calls booked  
+- Cumulative calls / offers / closes  
+
+Review these, not your feelings. Feelings lie; counts don’t.
+
+```
+*
+
+
+
+
+
+
+
+```
+
+```markdown
+# Outbound OS: 90‑Day Pipeline Sprint
+
+We design, implement, and run a unified LinkedIn + email outbound operating system that reliably produces a **baseline of +10–20 qualified demos/month** with your ICP and gives you a **single source of truth for outbound pipeline**.
+
+---
+
+## 1. Price & Terms
+
+- **Program fee:** **$24,000** for 90 days  
+- **Payment options:**
+  - **$24k pay in full**, or  
+  - **3 × $9k monthly** (paid at kickoff, day 30, day 60)
+
+No ongoing retainer. This is a one‑time implementation and build‑out of your outbound operating system.
+
+---
+
+## 2. Core Deliverables (90 Days)
+
+### Phase 1 – Outbound OS Design (Weeks 1–2)
+
+- Clarify ICP, personas, triggers based on your best customers.  
+- Map current “Frankenstack” (CRM + outbound tools).  
+- Design **one coherent flow**: account → contact → convo → demo → opp.
+
+### Phase 2 – System Build & Tool Consolidation (Weeks 2–4)
+
+- Configure 1 primary CRM pipeline for outbound.  
+- Standardize statuses, routing, and SLAs for outbound‑sourced leads.  
+- Consolidate to 1–2 main outbound/data tools (e.g., Apollo / Clay / Sales Nav + email).
+
+### Phase 3 – Messaging & Campaign Setup (Weeks 3–5)
+
+- Build 2–3 ICP‑specific **LinkedIn + email sequences** (30–45 days, multi‑touch).  
+- Templates for:
+  - Connection requests / intro messages  
+  - Bump emails and soft CTA follow‑ups  
+  - Nurture touches and no‑show recapture
+
+### Phase 4 – Live Campaign Management (Weeks 5–12)
+
+- We operate outbound inside your stack:
+  - List building and enrichment  
+  - Sequencing and reply handling  
+  - Calendar handoffs to your AEs
+- Weekly optimization on:
+  - Positive reply rate  
+  - Demo set / show rates  
+  - Opp conversion
+
+### Phase 5 – Outbound Command Center
+
+- One **board‑ready dashboard** (in CRM or BI layer) showing:
+  - Outbound demos  
+  - Outbound‑sourced opps  
+  - Pipeline and wins  
+- All attributable and filterable by campaign, rep, and segment.
+
+---
+
+## 3. Guarantee – “Board‑Ready Baseline” Guarantee
+
+If by day 90 you **do not have a live outbound OS producing at least 30 qualified demos total** (with your ICP, to your AEs’ calendars, tracked in CRM), then:
+
+1. We **work for free for up to 90 more days** until you hit 30 qualified demos total, and  
+2. If you’re on the payment plan, you **do not pay the final $9k installment** until the 30‑demo mark is hit.
+
+---
+
+## 4. Bonuses
+
+### Bonus 1 – Board Pack: “Outbound Math” Model
+
+- Custom spreadsheet + slide pack showing how outbound demos turn into:
+  - Opps  
+  - Pipeline  
+  - ARR (using your actual close rates and deal sizes)
+
+### Bonus 2 – AE / SDR Enablement Kit
+
+- Handoff scripts, discovery prompts, and outbound‑origin objection handling.  
+- Follow‑up checklist from first reply → demo → closed‑won.
+
+### Bonus 3 – Tool Bloat Savings Audit
+
+- Audit of your GTM stack with:
+  - Tools to cut or consolidate  
+  - Recommended core stack  
+  - Expected savings and simplification
+```
+
+
+```markdown
+### Prosperity Pulse Refined Core Avatar
+
+**One‑sentence avatar**
+
+Growth‑stage B2B SaaS founder or GTM leader doing roughly $1–8M ARR, selling $8–40k ACV deals, with at least one closer and a messy, tool‑bloated outbound setup that isn’t producing consistent qualified demos.
+
+---
+
+### 1. Prospecting avatar (what you filter for in outbound)
+
+**Company / market**
+
+- Model: B2B SaaS only (no agencies, pure services, or marketplaces)  
+- Employees: 15–100  
+- Motion: Sales‑led or hybrid PLG + sales (they run demos)  
+- Geography: English‑speaking focus (US, Canada, UK, EU, ANZ, SG)
+
+**People to target**
+
+- Job titles: Founder, Co‑Founder, CEO, CRO, VP Sales, Head of Sales  
+- Department: Sales / Revenue / GTM leadership
+
+Use these filters on LinkedIn and similar tools to build your target lists.
+
+---
+
+### 2. Qualification avatar (what must be true after first call)
+
+**Economics**
+
+- ARR: ~ $1–8M (post‑PMF, growth stage)  
+- ACV: $8–40k/year  
+- Customers: 20+ paying customers  
+- At least 1 full‑time closer (founder can still sell alongside)  
+- Close rate on qualified opps ≥ 20% from inbound / referrals  
+- Can realistically handle +10–20 qualified demos/month without breaking
+
+**Tech & ops (your edge)**
+
+- Using a mainstream CRM (HubSpot, Salesforce, Pipedrive, etc.)  
+- Using CRM + at least one outbound / data tool (Apollo, Clay, Outreach, Lemlist, Sales Nav, Clearbit, etc.)  
+- Outbound reporting is fragmented or non‑existent  
+- Follow‑ups and handoffs are partly manual (spreadsheets, Slack, “tribal knowledge”)  
+- They’ve already tried some form of outbound (agency, SDR, tools) and are disappointed with consistency
+
+**Psychographic**
+
+- Founder / GTM leader personally stressed about pipeline in weekly reviews  
+- Cares about measurable results (demos, opps, pipeline)  
+- Mentally comfortable with ~$3–8k/month if it predictably adds pipeline  
+- Prefers clear math and visibility over “black‑box” agencies
+
+---
+
+### 3. Disqualifiers (hard no for core offer)
+
+- Pre‑revenue or <20 paying customers  
+- ACV < $7–8k or mostly tiny $100–$300/month plans  
+- 100% PLG, no sales process, no demos  
+- No closer and no plan to hire one (“we just want you to book demos”)  
+- Cannot handle +10 demos/month or refuses to track basic funnel metrics  
+- Wants a fully hands‑off, “set‑and‑forget” magic system in 30 days
+
+---
+
+### 4. First‑call fast qualifiers
+
+1. “What’s your current ARR and typical ACV?”  
+2. “How many demos did you run last month, and what’s your close rate?”  
+3. “What tools are you using today for outbound and tracking?”  
+4. “If we added 10–20 qualified demos/month, can your team handle them?”  
+5. “What have you already tried for outbound, and why do you think it fell short?”
+
+---
+
+### Top 3 pains
+
+1. **Inconsistent, “spiky” pipeline from outbound**  
+   - Demos from outbound feel random: some weeks decent, other weeks dead. They can’t walk into a board meeting or weekly revenue review and say, “We know we’ll get 15–25 qualified demos this month from outbound.”  
+   - Inbound / referrals are fine, but not enough to hit targets, so they’re stuck in this anxiety loop: “If outbound doesn’t work, how do we actually control growth?”
+
+2. **Messy, tool‑bloated outbound that nobody really trusts**  
+   - They’re paying for HubSpot / Salesforce + Apollo / Clay / Clearbit / Lemlist / Sales Nav, but the system is Frankensteined together. Reporting is fragmented, follow‑ups are half manual, and nobody has a single source of truth.  
+   - GTM leadership wastes time asking, “What’s working?” and getting opinions instead of clean data. Reps complain about workflows instead of booking meetings. Outbound feels harder than it should be.
+
+3. **Burned by past outbound attempts and scared of wasting more cycles**  
+   - They’ve already tried an agency, SDRs, or self‑serve tools. It generated noise, not consistent qualified demos. That scar tissue makes them skeptical of “we’ll fill your calendar” pitches.  
+   - Emotionally, they’re tired of black‑box vendors and half‑baked experiments. The real pain is: “I’m on the hook for pipeline, but every ‘solution’ so far has burned time, money, or brand.”
+
+---
+
+### Top 3 dream outcomes
+
+1. **Predictable, board‑ready pipeline from outbound**  
+   - A clean, believable baseline like “+10–20 qualified demos per month” that they can forecast and scale. Not a spike, a floor.  
+   - They walk into reviews knowing pipeline targets will be hit without last‑minute heroics from the founder or one rockstar rep.
+
+2. **A simple, unified outbound machine that just runs**  
+   - One coherent LinkedIn + email system: clear ICP, clean lists, tight messaging, synced tools, and accurate reporting. Everyone knows the plays, the metrics, and who owns what.  
+   - Outbound becomes a stable engine, not a side project. Follow‑ups, handoffs, and reporting are standardized, so reps sell instead of babysitting spreadsheets.
+
+3. **Control, clarity, and confidence over the whole motion**  
+   - They see exactly how outbound turns dollars and effort into demos, opps, and pipeline: clear math, clear dashboards, and short feedback loops.  
+   - Emotionally, the win is: “Outbound is a lever I control, not a gamble,” which makes them comfortable investing $3–8k/month when the path to pipeline is visible.
+```
+
+
+
+Help me pick a market using your 4 criteria:
+
+Massive pain, 2) Purchasing power, 3) Easy to target, 4) Growing.
+I’m starting from zero. Ask me whatever you need about my skills, experience, and interests, then:
+Propose 3 concrete markets in Health, Wealth, or Relationships
+Score each 1–10 on pain, purchasing power, ease of targeting, and growth
+Tell me which ONE you’d choose and why, assuming I just want the best odds of success, not “passion.”
+Use your “starving crowd” and market criteria frameworks.
+
+
+
+
+You’re asking the right question first: market before offer, before product.
+
+Here’s what I need so I don’t throw darts in the dark. I’ll keep this tight.
+
+My current understanding:  
+You’re starting from zero, want to build an online business in Health, Wealth, or Relationships, and you care more about high probability of success than “following your passion.” You’re okay being uncomfortable, you just don’t want to pick a dead or tiny market. You don’t yet have a defined audience or offer. I’m going to assume you’re solo, relatively flexible on model (coaching / services / education), and want to sell in English. Target audience and location: unknown.
+
+Tell me if that summary is roughly correct, and answer these 5 questions:
+
+1) Skills & track record  
+What are the top 3 skills or domains you have real experience in?  
+Examples: sales, fitness, dating, copywriting, accounting, project management, software/dev, design, teaching, therapy, paid ads, etc.  
+Also: where have people already asked you for help or advice?
+
+2) B2C vs B2B  
+Who would you *rather* help, if you had to choose:  
+- Individuals (e.g. get fit, make more money, improve dating/marriage), or  
+- Businesses/professionals (e.g. get more clients, increase revenue, fix operations)?  
+And have you ever sold anything before (even a small thing)?
+
+3) Hard “no” zones  
+Any absolute no-go areas? For example:  
+- “I don’t want to talk about sex / dating.”  
+- “I don’t want to deal with weight loss / body image.”  
+- “I don’t want to sell financial advice because of regulation.”  
+This matters so we don’t pick a market you’ll subconsciously sabotage.
+
+4) Time & cash runway  
+For the next 90 days:  
+- How many focused hours per week can you realistically put in?  
+- How much cash are you willing to invest to get this off the ground (tools, training, maybe some ads)? Even a range is fine (e.g. $0–$500, $500–$2k, $2k+).
+
+5) Location  
+Where are you physically based (country + time zone), and are you planning to sell primarily to people in your country or globally (as long as they speak English)?
+
+Once you answer, I’ll:
+
+- Propose 3 specific markets (all in Health, Wealth, or Relationships).  
+- Score each 1–10 on: pain, purchasing power, ease of targeting, and growth.  
+- Pick ONE I’d choose in your shoes, purely for best odds of success (not passion), using the starving crowd + market criteria frameworks.
+
+
+
+
+I am solo.
+Sell in English.
+Target audience unknown yet
+Location: Preferably Singapore
+
+1. Skill & Track Record
+Software/Dev: 8 years of experience
+Films: People ask me for film recommendations
+English: Speak English fluently. Write decently.
+
+2. Business/professionals preferred. Haven't sold anything before.
+
+3. hard no zones: illegal stuff like drugs and vapes
+
+4. 2 hours on weekdays as I have a full time job, 8 hours each for Saturday and Sunday
+
+5. Singapore, UTC+8. I am open to sell globally as long as they speak English.
+
+
+
+
+---
+Here’s how I’d play this if I were you.
+
+First, the framework you asked for: when picking a market I want  
+1) Massive pain, 2) Purchasing power, 3) Easy to target, 4) Growing. [$100M Offers, Page 39],[$100M Offers, Page 40]  
+And I want a “starving crowd” so big that even a mediocre offer still sells. [$100M Offers, Page 37]  
+Also: don’t be romantic about the audience; serve people who can pay. [$100M Offers, Page 38]  
+Same logic as the branding playbook: growing, they can afford it, easy to find, and in pain. [$100M Playbook Branding, Page 23]
+
+Given your skills (software/dev, solid English), B2B preference, part‑time capacity, and global English markets, here are 3 concrete options (all in “Wealth” because that’s where your odds are best):
+
+### Market 1: B2B SaaS founders who want more demos / pipeline
+You help early/mid‑stage B2B SaaS founders get more qualified demos using LinkedIn + email + simple automation you build (inboxes, enrichment, follow‑up sequences, reporting). Massive industry growth, big ACVs, easy to reach on LinkedIn, very measurable results.
+
+### Market 2: Online coaches / consultants who want consistent clients
+You build & maintain a simple “client engine” for business/marketing coaches and consultants: lead capture, automated follow‑up, calendar booking, basic CRM. Less technical than SaaS, still good money, also easy to target via social platforms and groups.
+
+### Market 3: Health & wellness practitioners who want more bookings
+Nutritional coaches, physiotherapists, chiropractors, etc. You build simple funnels + automations for lead capture, reminders, and reactivation. Solid pain (empty calendars), but often less tech‑savvy and more local / fragmented.
+
+### Scores (1–10)
+
+**Market 1: B2B SaaS founders (Wealth)**  
+- Pain: 9 (pipeline = survival)  
+- Purchasing power: 9 (high LTV, VC backing, global growth)  
+- Easy to target: 9 (LinkedIn filters by “Founder,” “SaaS,” industries)  
+- Growth: 9 (B2B SaaS & AI/automation growing double‑digit globally, APAC especially strong)
+
+**Market 2: Online coaches / consultants (Wealth / Relationships)**  
+- Pain: 8 (inconsistent clients, feast/famine)  
+- Purchasing power: 7 (mid‑ticket; some broke, some flush)  
+- Easy to target: 8 (FB groups, IG, YT, LinkedIn titles like “coach,” “consultant”)  
+- Growth: 8 (coaching industry expanding, but crowded and trend‑driven)
+
+**Market 3: Health & wellness practitioners (Health / Wealth)**  
+- Pain: 8 (need booked calendars)  
+- Purchasing power: 7 (small clinic owners; budgets tighter than SaaS)  
+- Easy to target: 7 (geo+profession targeting; more fragmented)  
+- Growth: 7 (steady, but slower and more regulated in some countries)
+
+### The one I’d pick for you
+
+I’d pick **Market 1: B2B SaaS founders who want more demos**.
+
+Why:
+
+- Massive, obvious, money‑pain: founders obsess over pipeline; a few extra demos a month can be worth tens of thousands in ARR, so your value is clear. [$100M Offers, Page 39]  
+- Huge purchasing power and growth: SaaS & B2B automation are among the fastest‑growing, highest‑spending B2B categories, with APAC (your region) growing fastest.  
+- Stupid-easy to target: LinkedIn is basically a directory of your ICP; you can literally filter by “Founder,” “CEO,” “Head of Sales,” plus “Software,” “Information Technology,” etc. [$100M Offers, Page 40]  
+- Founder–fit: your dev background lets you build scrappy but powerful automations (outreach, enrichment, follow‑ups, dashboards) that non‑technical competitors can’t.
+
+You’re not trying to win “most passionate.” You’re trying to stack the deck. This is the biggest starving crowd on the list with the best combo of pain + money + findability + growth, and it matches your skills.
+
+### Next 7–10 days (concrete)
+
+1. **Clarify your who & problem** in one sentence:  
+   “I help early‑stage B2B SaaS founders add X–Y qualified demos per month using outbound + automation, without hiring SDRs.”
+
+2. **Manually message 30–50 SaaS founders on LinkedIn**  
+   - Use a simple opener: “Hey [Name], I’m building a service to help early‑stage SaaS founders book more demos using lightweight automation instead of SDR headcount. Open to 10–15 mins to see if I can find you 3–5 extra demos / month?”  
+   - Goal is conversations, not perfection.
+
+3. **From the calls, extract the real pain**  
+   Write down exact words they use about leads, demos, time, tools. That becomes the core of your eventual offer.
+
+You’re at the “lonely chapter” where no one’s watching. The way out is reps. Pick this market, commit for at least 90 days, and out‑practice everyone else.
+
+
+
+
+
+Avatar first. Every time.  
+
+Sequence is actually:  
+
+1. **Market → Avatar → Problem → Offer.**  
+   - Market: “fitness,” “dentists,” “SaaS founders,” etc.  
+   - Avatar: “night-shift nurses who want to lose 20 lbs,” “$1–5M agency owners stuck at founder-led sales,” etc.  
+   - Problem: the single painful outcome they’re desperate to solve.  
+   - Offer: the mechanism, delivery, price, bonuses, guarantee built specifically for *that* person and *that* problem.  
+
+From the book: I show why a generic weight-loss program might sell for $19, while a version aimed specifically at shift nurses can sell for $1,997, even if the core is “eat less, move more.” The difference is avatar and niche, not the content. [$100M Offers, Page 45]  
+
+If you start with the offer, you default to:  
+- “12-week coaching,” “membership,” “course”  
+- Generic benefits, generic pricing  
+- You end up competing on “who’s cheaper” instead of “who gets me better / faster / easier results.”  
+
+If you start with the avatar, you can answer:  
+- What is their **dream outcome**?  
+- What are they already trying that **isn’t working**?  
+- What do they **fear** might happen if they try again?  
+- What feels like **too much work / time / sacrifice** for them?  
+
+Those answers tell you exactly:  
+- What to promise  
+- What to include  
+- What to remove  
+- What to guarantee  
+
+That is how you increase perceived value without changing the underlying work very much. [$100M Offers, Page 45]  
+
+### The correct order to follow
+
+Use this and stop overthinking it:  
+
+1. **Pick a good market**  
+   - Growing or stable, has money, has a visible problem, already buying solutions.  
+2. **Choose a narrow avatar inside that market**  
+   - “X type of person with Y specific problem.”  
+3. **List their top 10 pains, dreams, and failed attempts**  
+   - These become your bullets, objections, and bonuses.  
+4. **Design the offer around eliminating those pains fast**  
+   - Reduce steps, time, and effort needed.  
+   - Add support and done-for-you where you can.  
+5. **Set price based on value to *that* avatar, not your costs**  
+   - The same core thing can be 10–100x more valuable when matched to the right avatar. [$100M Offers, Page 45]  
+
+### Simple litmus test
+
+If you can’t answer in one sentence:  
+> “I help [specific avatar] get [specific outcome] in [specific time frame] without [specific big fear],”  
+
+you don’t know your avatar well enough to be working on the offer.  
+
+So: stop tweaking features. Decide *who* you’re willing to obsess over, then build one violent, obvious solution for that person. Avatar first, then offer.
+
+
+
+We’re going from “B2B SaaS founders who want more demos” (everyone) to “this exact person or we say no.” That’s how you get Gym Launch‑level clarity. [$100M Offers, Page 44]
+
+### One‑sentence avatar
+
+**Growth‑stage B2B SaaS founder (or GTM leader) doing $1–8M ARR, selling $8–40k ACV deals, with 1–3 AEs and a messy, tool-bloated outbound engine that isn’t producing consistent qualified demos.**
+
+---
+
+### Hard firmographic filters (all must be true)
+
+**Company:**
+
+- B2B SaaS only (no agencies, no pure services, no marketplaces).  
+- ARR: **$1–8M** (post‑PMF, in the “growth” phase where GTM scale is the focus). [$100M Offers, Page 41]  
+- ACV: **$8–40k/year** (each extra demo is worth real money).  
+- Customers: **20+ paying customers** (not idea-stage).  
+- Primary motion: sales‑led or hybrid PLG + sales (they actually run demos).
+
+**Team / sales:**
+
+- **1–3 full‑time AEs** (founder can still be selling, but there are real closers).  
+- Can absorb **+10–20 qualified demos/month** without breaking fulfillment.  
+- Close rate on qualified opps **≥20%** from inbound / referrals.
+
+---
+
+### Tech & ops filters (where your edge matters)
+
+You want the ones already feeling the “software bloat + no glue” pain.
+
+- Using a mainstream CRM (HubSpot, Salesforce, Pipedrive, etc.).  
+- Have **3+ GTM tools** in the mix (e.g., Apollo / Clay / Outreach / Lemlist / LinkedIn Sales Nav / Clearbit), but:  
+  - No unified reporting on outbound, and  
+  - Follow‑ups and handoffs are partly manual or living in spreadsheets / Slack.
+
+This aligns with the pattern where their real constraint is poor automation between sales and marketing, not “no demand.” That’s exactly what your “simple automation + outbound” offer fixes.
+
+---
+
+### Psychographic & situational filters
+
+- Founder / GTM leader **personally stresses** about pipeline in weekly meetings.  
+- They’ve **already tried** outbound (agency, SDR, tool) and are disappointed, not naïve.  
+- They care about **measurable** results (demos, opps, pipeline) and will pay for them.  
+- Budget: mentally fine with **$3–8k/month** for something that predictably adds pipeline.
+
+---
+
+### Disqualifiers (automatic no)
+
+Red velvet rope policy: if they miss, they don’t get the offer. [$100M Offers, Page 44]
+
+- Pre‑revenue or <20 customers.  
+- ACV < $7–8k or mostly $100–$300/month tiny plans.  
+- No closer and no plan to hire one (“we just want you to book demos”).  
+- 100% PLG, no sales process, no demos.  
+- Cannot handle +10 demos/month or doesn’t track basic funnel metrics.  
+- Wants “fully hands‑off, set-and-forget magic system” in 30 days.
+
+---
+
+### How you actually use this
+
+**LinkedIn filters:**
+
+- Job titles: Founder, Co‑Founder, CEO, CRO, VP Sales, Head of Sales.  
+- Industry: Computer Software, Information Technology & Services.  
+- Company size: **15–100 employees** (roughly maps to $1–8M ARR in many SaaS).  
+- Geography: English‑speaking first (US, Canada, UK, EU, ANZ, SG).
+
+**First‑call qualifiers (fast):**
+
+1. “What’s your current ARR and typical ACV?”  
+2. “How many demos did you run last month, and what’s your close rate?”  
+3. “What tools are you using today for outbound and tracking?”  
+4. “If we added 10–20 qualified demos/month, can your team handle them?”
+
+If they don’t match this avatar, they go to nurture/content. You only sell the core offer to this slice. That’s how you get paid more for the same work. [$100M Offers, Page 38],[$100M Offers, Page 44]*
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 # Context 201 - Business Context Questionnaire
 
 *Source: Acquisition.com*
