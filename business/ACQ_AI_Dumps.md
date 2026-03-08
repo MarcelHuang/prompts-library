@@ -1,3 +1,107 @@
+Give me all the questions you'd want answered to help me craft a Grand Slam Offer from scratch
+
+Here’s the offer-design intake I’d want you to answer, in order, to build a Grand Slam Offer from scratch.
+
+I’m going broad first, then deep. Answer in writing; this becomes the raw material for the offer.
+
+
+craft a grand slam offer to help people get tech jobs. Current avatar: demographics Singapore. Minimum YOE 3 years
+
+---
+
+### 1. Market & Avatar
+
+1. Who is your *single* primary avatar? (Job / role / demographic / psychographic, not “anyone who…”)  
+2. What are they already paying for to solve this problem today? (Names, prices, formats.)  
+3. What is their #1 most painful problem you solve, in their words, not yours?  
+4. What happens if they do nothing for 12 months? (Financially, emotionally, status-wise.)  
+5. What have they already tried that didn’t work, and why do they say it failed?
+
+---
+
+### 2. Dream Outcome (Top of the Value Equation)
+
+6. What is the clearest, most tangible “after” state you can create? (Measured in money, time, weight, leads, whatever.)  
+7. If we had to put a number on the dream outcome, what is it? (“Add $X / lose Y lbs / save Z hours / get N clients.”)  
+8. What status transformation do they secretly want? (How they want to *feel* or be seen.)  
+9. What’s the *fastest* meaningful win you can create in the first 7–30 days?
+
+[Value equation framing: dream outcome vs time delay / effort / sacrifice, etc. $100M Offers, Page 78][$100M Leads, Page 59]
+
+---
+
+### 3. Current Product & Fulfillment Reality
+
+10. What do you currently sell? (Name, deliverables, term, price, payment structure.)  
+11. What results are your best clients getting today, with real numbers?  
+12. What is your true capacity right now if demand doubled next month?  
+13. Where do clients get stuck or drop off in your process most often?  
+14. Which parts of fulfillment are cheap and easy for you, and which are costly or painful?
+
+---
+
+### 4. Problems & Obstacles (Raw Material for Bonuses)
+
+15. List every step they must take from “sign up” to “dream outcome.”  
+16. For each step, why might they fail or quit? (Skill, time, money, confidence, tools, environment, etc.)  
+17. What frictions exist *before* buying? (Confusion, trust, risk, decision makers.)  
+18. What frictions exist *after* buying? (Onboarding, overwhelm, accountability, complexity.)  
+19. Which of these problems can you realistically solve or remove on your side?
+
+[Problems list used to create solution stack. $100M Offers, Page 80]
+
+---
+
+### 5. Delivery Vehicles & Constraints
+
+20. What delivery mechanisms are you willing to use? (DFY, DWY, DIY, coaching, software, community, calls, events.)  
+21. What are your hard constraints? (Time per client, team, tech, geography, compliance.)  
+22. What assets do you already have? (Templates, checklists, SOPs, recordings, tools, relationships, case studies.)
+
+---
+
+### 6. Pricing & Economics
+
+23. What’s a price that would feel “premium but fair” to your best current buyers?  
+24. What is your hard cost per client at that level (time + money)?  
+25. What gross margin do you need to hit your personal and business goals?  
+26. How long, on average, do clients stay / how long could they stay if happy?
+
+(Used to back into a money model that “gets paid to get customers.” $100M Offers, Page 32)
+
+---
+
+### 7. Risk Reversal & Guarantees
+
+27. What outcomes are you confident enough in that you’d bet your own money on them?  
+28. What parts of the outcome are outside your control and must be excluded or framed?  
+29. What is the worst-case downside you can afford if 10–20% of clients claim the guarantee?  
+30. What compliance behaviors *must* they do for you to feel okay guaranteeing?
+
+---
+
+### 8. Proof & Mechanism
+
+31. What proof do you already have? (Before/afters, testimonials, screenshots, awards, track record.)  
+32. What is your “secret sauce” or unique mechanism in plain language?  
+33. Why does this work *better* than what they’ve already tried?
+
+[Framed as increasing perceived likelihood of achievement. $100M Leads, Page 59]
+
+---
+
+### 9. Buying Experience
+
+34. How do people currently buy? (Call / checkout / proposal / DMs.)  
+35. Where do most deals die today? (No show, no budget, stall, competitor, ghosting.)  
+36. What’s the minimum info you need on a call/form to confidently accept a client?
+
+---
+
+If you fill this out, I can turn it into one Grand Slam Offer: name, stack, pricing, guarantee, and pitch.
+
+
+
 28 Feb 2026
 ```
 ```markdown
