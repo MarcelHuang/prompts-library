@@ -1,3 +1,154 @@
+# Tuesday, 10 March 2026
+
+
+Endgame for year 1: I ultimately want:
+A teaching/coaching business (help beginners learn to code / get jobs)
+
+Current skill level: intermediate to expert (8 years of software engineering experience)
+
+I have shipped lots of things in my current company. I have a full time job.
+The latest one that I have shipped is a software build to automate that saves the company 2772 hours annually (estimated savings close to 1 million dollars after 3 years)
+Tech Stack: Python, AWS, Pytest, Github Actions for CI/CD Pipeline, Agentic Coding (Claude Opus 4.6)
+
+How many hours per week can you put in for the next 90 days?
+Right now I'm holding a full time job, so 2 hours per day on weekday and 8 hours on weekend
+total of 26 hours per week
+
+How many months of living expenses do you have covered if you make $0?
+2 months
+
+Who you’d rather talk to all day: Engineers / aspiring developers
+
+Here’s the play.
+
+---
+
+## 1. Single best starting avatar
+
+**Avatar:**  
+Full-time working adults (25–35) in non-tech or low-tech roles, mostly in the US, who have already been self-studying Python for 1–6 months and want their **first junior Python / backend / automation engineer job in the next 9–12 months** without paying $10K+ for a bootcamp.
+
+They’re serious enough to have started, but stuck before “job ready.”
+
+This puts you in a **category of one** vs huge bootcamps: personal, outcome-focused, part-time, Python-only, with a real engineer who’s shipped million-dollar-impact automations. [$100M Offers, Page 32]
+
+---
+
+## 2. Top 3 pains & dream outcomes
+
+**Top 3 pains**
+
+1. **Overwhelm & no clear path**  
+   They’re drowning in YouTube, courses, and conflicting “roadmaps,” not sure what actually gets them hired.
+
+2. **No proof they’re job-ready**  
+   They don’t have serious portfolio projects, code reviews, or anyone senior telling them: “Yes, this is hireable.”
+
+3. **Fear of wasting time & money**  
+   Bootcamps cost ~$8K–$13K+ and talk about “job guarantees”; they don’t trust the marketing and don’t want to burn a year and still be stuck.
+
+**Dream outcomes**
+
+1. **Land a junior Python / backend / automation role** (hybrid or remote) in 9–12 months.  
+2. Have **3–5 legit portfolio projects** and a GitHub/LinkedIn that look like a real engineer’s, not a tutorial graveyard.  
+3. Make the transition **while keeping their current job**, with a step-by-step plan and someone in their corner.
+
+This is the “dream outcome” in the value equation; we’ll crank up perceived likelihood and reduce time delay and effort by giving them a narrow path, done-with-you projects, and direct feedback. [$100M Offers, Page 59],[$100M Offers, Page 63]
+
+---
+
+## 3. Grand Slam Offer
+
+**Offer name:**  
+**Python Job-Ready Accelerator (12 Weeks, 1:1)**
+
+**Positioning:**  
+A 12-week, part-time, 1:1 mentorship that takes a self-taught Python beginner and makes them *job-ready* for junior Python / automation roles by shipping 3 real projects and generating real interviews.
+
+**Price (launch):**
+
+- **$2,500 USD** standard
+- First **5 “founding students” at $1,800** in exchange for testimonials and case studies
+
+Relative to $9K–$13K median bootcamps, this is premium vs random courses but a bargain vs big schools, while giving more personal attention.
+
+### Core deliverables
+
+For 12 weeks, per student:
+
+- **1:1 Weekly call (60 min)**  
+  Architect skills, unblock code, plan job-search actions.
+- **3 flagship portfolio projects**, chosen with you:  
+  - Real-world automation (e.g., saves X hours / week)  
+  - Backend/API or microservice on AWS  
+  - Data/ETL or scripting project showing business impact  
+- **Unlimited async code reviews** (24–48h turnaround) via GitHub + Loom.
+- **Job assets rebuilt with you:**  
+  Resume, LinkedIn, GitHub profile, and project writeups tailored to junior Python roles.
+- **Interview prep:**  
+  At least **4 mock interviews** (behavioral + technical) with detailed feedback.
+
+### Bonuses
+
+1. **Outreach Sprint Kit (14 days)**  
+   Daily DM/email scripts and review to contact **50–100 recruiters/hiring managers** plus a tracker so they see pipeline building.
+
+2. **Template Vault**  
+   Plug-and-play: study plan, project briefs, commit checklist, resume/cover scripts, outreach templates.
+
+3. **AI Pair-Programming System**  
+   Your exact workflows for using Claude/LLMs *ethically* to debug, refactor, and accelerate learning without “cheating.”
+
+Using unscalable, high-touch service for max value is exactly how you justify higher prices early. [$100M Playbook Fast Cash, Page 10],[$100M Playbook Fast Cash, Page 15]
+
+### Guarantee (risk reversal)
+
+> **Interview Pipeline Guarantee:**  
+> If you complete all assigned work (projects, outreach volume, and mocks) and within **90 days of starting** you don’t generate **at least 3 technical interviews** for junior Python / backend roles, I’ll **coach you for free for up to 3 additional months** until you do.
+
+This boosts perceived likelihood of achievement without putting you in a reckless “job or full refund” position on day one. [$100M Offers, Page 59]
+
+---
+
+## 4. Simple 90-day money model
+
+Goal: Use this one offer to hit **$10K–$15K in booked revenue** in 90 days while working 26 hrs/week, and build proof.
+
+**Capacity:**  
+Each student ≈ 2–3 hrs/week (call + reviews).  
+You can handle **5 concurrent students** comfortably (10–15 hrs/week), leaving ~10–15 hrs for marketing and systems.
+
+### Days 1–30: Build proof & get first cash
+
+- Ship your own flagship automation project and document it.  
+- Have **100 conversations** with your avatar (Reddit, Discord, LinkedIn communities) and offer a free **“Python Career Plan” call.**  
+- Aim for **10 calls**, close **2 students at $1,800** “founder” price.  
+- Revenue: **$3,600** booked.
+
+### Days 31–60: Fill your roster
+
+- Raise price to **$2,000**.  
+- Keep pushing 1:1 DMs + content in the same communities; target another **15–20 calls**.  
+- Close **3 more students at $2,000**.  
+- New revenue: **$6,000** (cumulative ≈ **$9,600**).
+
+### Days 61–90: Go full price & tighten
+
+- Move to full **$2,500** pricing with your first testimonials and project screenshots.  
+- Top up to or maintain **5 active students** by enrolling **2 more at $2,500** as earlier students graduate.  
+- New revenue: **$5,000** (cumulative ≈ **$14,600**).
+
+Money model is simple: **one premium, unscalable offer, sold via conversations, paid upfront**, with your time as the constraint. That’s the fastest way to turn your 8 years of experience into cash and case studies. When this works, we can later add a group program or continuity layer on top.
+
+
+
+
+
+
+
+
+
+
 Give me all the questions you'd want answered to help me craft a Grand Slam Offer from scratch
 
 Here’s the offer-design intake I’d want you to answer, in order, to build a Grand Slam Offer from scratch.
