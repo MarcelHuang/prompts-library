@@ -1,3 +1,221 @@
+# 21 March 2026
+
+what are essential business maths that all business owners should know?
+
+Here’s the minimum viable “money math” every business owner should know. If you can’t do this on a napkin, you’re flying blind.
+
+---
+
+## 1. Revenue, Gross Profit, Gross Margin
+
+- **Revenue** = Price per unit × Number of units sold  
+- **Gross Profit** = Revenue − *direct* cost to deliver those units (materials, delivery labor, ad spend tied to that sale) [$100M Offers, Page 30]  
+- **Gross Margin %** = Gross Profit ÷ Revenue × 100  
+
+Example: Sell a service for $1,000, it costs you $200 in direct labor/software to fulfill:  
+Gross profit = $800, gross margin = 80%.
+
+If you don’t know this, you don’t know which products to push.
+
+---
+
+## 2. Net Profit & Net Margin
+
+- **Net Profit** = Revenue − *all* expenses (direct + overhead)  
+- **Net Margin %** = Net Profit ÷ Revenue × 100  
+
+This is what you actually keep. A lot of “7‑figure” businesses are broke because they never look past revenue.
+
+---
+
+## 3. Lifetime Value (LTV / LTGP)
+
+I care about **lifetime gross profit (LTGP)**: how much gross profit one customer produces over their whole relationship. [$100M Offers, Page 30]  
+
+Two simple versions:
+
+- **Transactional business**  
+  LTGP = Avg gross profit per purchase × Avg # of purchases per customer [$100M Playbook Lifetime Value, Page 9]  
+
+- **Recurring / subscription**  
+  LTGP = Monthly gross profit per customer ÷ Monthly churn rate (as a decimal) [$100M Playbook Lifetime Value, Page 9]  
+
+If monthly gross profit is $400 and churn is 5% (0.05): LTGP = 400 ÷ 0.05 = $8,000.
+
+Once I learned this “money math,” I stopped hating math because every improvement made me more money. [$100M Playbook Lifetime Value, Page 7]
+
+---
+
+## 4. Customer Acquisition Cost (CAC) & LTV:CAC
+
+- **CAC** = Total sales & marketing spend to get new customers ÷ # of new customers  
+- **LTV : CAC ratio** = LTGP ÷ CAC  
+
+If it costs you $1,000 to get a customer and LTGP is $4,000, LTV:CAC = 4:1. That’s how you know how hard you can step on the gas.
+
+---
+
+## 5. Break‑Even Math
+
+- **Gross margin %** from above.  
+- **Monthly break‑even revenue** = Fixed monthly costs ÷ Gross margin % (as decimal).  
+
+If fixed costs are $50k and gross margin is 60% (0.6):  
+Break‑even revenue = 50,000 ÷ 0.6 ≈ $83,333.
+
+That’s the “line you must cross” every month.
+
+---
+
+## 6. Funnel & Conversion Math
+
+Know these three at minimum:
+
+- Lead → Call booked %  
+- Call → Customer %  
+- Lead → Customer %  
+
+Example:  
+100 leads → 30 calls (30%) → 9 customers (30%) → 9% lead→customer.
+
+Now every improvement has math behind it: double call→close and you double customers without more leads.
+
+---
+
+## 7. Cash & Runway
+
+- **Monthly burn** = Average monthly cash out − cash in (if negative profit).  
+- **Runway (months)** = Cash on hand ÷ Monthly burn.  
+
+This tells you how long you have before you’re dead if nothing changes.
+
+---
+
+## 8. Pricing Power Math
+
+Raising price does two things simultaneously:
+
+1. More **gross profit per customer**  
+2. Usually **fewer customers to service**, which reduces costs  
+
+Example from my gyms: tripled price, lost ~30% of customers, revenue more than doubled while costs dropped. Profit exploded. [$100M Playbook Pricing, Page 22]
+
+In general, you want the **price that maximizes:**
+
+> Sales conversion rate × Lifetime gross profit per customer [$100M Playbook Lifetime Value, Page 12]  
+
+Not “most customers,” **most money**.
+
+---
+
+### What to do now
+
+Open a spreadsheet and build one tab with these 8 blocks. Plug your real numbers in:
+
+- Revenue, Gross Profit, Gross Margin  
+- Net Profit, Net Margin  
+- LTGP & CAC & LTV:CAC  
+- Break‑even revenue  
+- Funnel conversion rates  
+- Cash, Burn, Runway  
+- A simple “price test” scenario
+
+Update it monthly. If you do that for a year, you’ll know your business better than 95% of owners. And the ones who can count their money, win.
+
+
+what about PPD / Payback Period?
+
+Payback Period is absolutely one of the core ones. It just sits *on top* of the LTGP:CAC math you already asked about.
+
+Think of it like this:
+
+- **LTV / LTGP** tells you: *“How much do I make per customer over their life?”*  
+- **CAC** tells you: *“What do I pay to get that customer?”*  
+- **Payback Period** tells you: *“How long until I get my money back?”*
+
+You need all three.
+
+---
+
+## 1. What Payback Period Actually Is
+
+Basic definition:
+
+> **Payback Period** = Time it takes for the *gross profit* from a customer to equal the **CAC** you spent to get them.
+
+If CAC is $1,000 and you make $250 in gross profit per month from that customer, your payback period is 4 months.
+
+Tie this to the earlier math:
+
+- You already have **LTGP** (lifetime gross profit) and **CAC** as the core ratio. [$100M Leads, Page 146]  
+- Most businesses have LTGP > CAC, *but they recover it slowly*, which starves them of cash and makes it impossible to scale. [$100M Leads, Page 147]
+
+So payback period is: *How fast does LTGP arrive?*
+
+---
+
+## 2. Why It Matters (More Than “Is It Profitable?”)
+
+You can have a “profitable” funnel on paper and still go bankrupt because of payback period.
+
+Example:
+
+- CAC: $1,000  
+- LTGP: $4,000 → 4:1. Awesome on paper.  
+- But you only make $100 gross profit per month.
+
+Payback = 10 months.
+
+That means every $1,000 you put into ads disappears for 10 months before returning. If you want to spend $50k/month on ads, you’re floating half a million dollars of cash. Most small businesses can’t.
+
+This is why in my stuff I push **client financed acquisition**: get customers to pay you back **in the first 30 days** so you can scale “now and forever.” [$100M Leads, Page 147]
+
+That is just “30-day payback period.”
+
+---
+
+## 3. Simple Formulas
+
+For a recurring / subscription style model:
+
+- **Monthly gross profit per customer** = Revenue per month − direct cost per month  
+- **Payback Period (months)** = CAC ÷ Monthly gross profit
+
+For a one-time / project model:
+
+- Map out month-by-month gross profit from that customer (including payment plans), then see where **cumulative** gross profit crosses CAC.
+
+---
+
+## 4. What “Good” Looks Like
+
+Rough rules of thumb:
+
+- < 1 month: You can scale extremely aggressively (classic client-financed front end). [$100M Leads, Page 147]  
+- 1–3 months: Still solid for bootstrapped if you have some cash.  
+- 3–6 months: You need either outside capital or slower, controlled growth.  
+- > 6–9 months: Dangerous unless you’re very well funded.
+
+---
+
+## 5. How To Use It
+
+Here’s how I’d actually use this in your business:
+
+1. **Calculate** CAC and monthly gross profit per customer.  
+2. Compute payback period.  
+3. If payback > 2–3 months and you’re cash constrained, focus on:
+   - Raising price or adding a front-end bundle to increase **Day 1 / Month 1** gross profit.  
+   - Adding upsells on the first transaction to pull LTGP forward. [$100M Leads, Page 147]  
+4. Recalculate. Your goal is to shrink payback until you can comfortably increase ad spend without sweating payroll.
+
+You don’t scale on LTV; you scale on **how fast you get your cash back.**
+
+
+##################
+
+
+
 # Saturday, 14 March 2026
 
 Here’s the play.
