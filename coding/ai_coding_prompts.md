@@ -13,6 +13,7 @@ A collection of reusable prompts for working with AI coding assistants (Copilot,
 5. [Code Review](#5-code-review)
 6. [Documentation](#6-documentation)
 7. [Refactoring](#7-refactoring)
+8. [Learning from External Repositories](#8-learning-from-external-repositories)
 
 ---
 
@@ -381,6 +382,144 @@ Current issues:
 Keep behaviour identical. Flag anything that looks risky to change.
 
 Context: [This was written in 2018 for Python 2.7, hastily ported to 3.x. Still works but hard to maintain.]
+```
+
+---
+
+## 8. Learning from External Repositories
+
+Use these when you've uploaded a GitHub repo as a zip and want to learn from it—not modify it. The goal is building mental models and extracting transferable knowledge, not shipping features.
+
+### Initial Repository Recon
+
+```
+I've uploaded [repo-name] as a zip. Before I dig in, give me the lay of the land:
+
+1. What does this project do, in plain English? (1-2 paragraphs, no jargon)
+2. What's the tech stack and main dependencies?
+3. What's the directory structure and what lives where?
+4. What are the entry points (main scripts, server start, CLI commands, public API)?
+5. Rough size and complexity (LOC, number of modules, obvious hotspots)
+
+Don't analyse any file in depth yet—I want a map so I can decide where to focus.
+
+Context: [I'm studying this repo to learn about X. I've used this library as a black box but never looked inside / I've never seen it before.]
+```
+
+### Architecture & Design Overview
+
+```
+I've uploaded [repo-name]. Explain the architecture:
+
+1. What's the core mental model? If I internalise one concept, what should it be?
+2. How are the main components organised and how do they interact?
+3. What design patterns are used and why?
+4. What are the key data structures or types the whole codebase revolves around?
+5. What non-obvious design decisions did the authors make, and what trade-offs do those imply?
+
+Use diagrams (ASCII or mermaid) where they genuinely help.
+
+Context: [I want to understand the design choices, not just trace code. Particularly interested in the parts a casual reader would miss.]
+```
+
+### Guided Learning Path
+
+```
+I've uploaded [repo-name] and want to learn it properly, not skim.
+
+Design a reading order for me:
+1. Which files/functions should I read first to build foundation?
+2. Then progressively harder concepts, each building on the previous
+3. For each step: what to read, why it matters, what I should understand before moving on
+
+Aim for [5-7] steps. Realistic for [a weekend / a week of evenings / two weeks].
+
+Context: [I learn best bottom-up from concrete code, then abstract. Give me a narrative path, not just a file list.]
+```
+
+### Deep Dive: Specific Module or Feature
+
+```
+In the uploaded [repo-name], focus on [/path/to/module or feature name]:
+
+1. What does this module do, conceptually?
+2. Walk through the implementation from the main entry point
+3. Highlight the clever bits—tricks, optimisations, non-obvious logic
+4. Which edge cases are being handled and why do they matter?
+5. What would a naive implementation miss that this one handles?
+
+Context: [I've got the overall architecture. I'm drilling into this part because I'm trying to build something similar / this is the interesting bit / I suspect there's something non-trivial here.]
+```
+
+### Extract Patterns Worth Learning
+
+```
+I've uploaded [repo-name]. Pull out the patterns and techniques worth stealing:
+
+1. Idiomatic code patterns I should adopt in my own work
+2. Clever uses of the language/stdlib I might not know about
+3. Error handling, logging, or observability patterns
+4. Testing approaches (if tests are present)
+5. Anti-patterns or things I should NOT copy—and why they might look tempting
+
+For each, show the snippet, explain what it does, and tell me when to reach for it.
+
+Context: [I'm a Python engineer with ~8 years of experience. Skip beginner stuff. I care about production-grade patterns I can apply to my own systems work.]
+```
+
+### Understand a Specific Technique
+
+```
+In the uploaded [repo-name], I want to understand how they implement [specific feature, e.g. "the event loop", "the LRU cache eviction", "the retry-with-backoff logic"]:
+
+1. Locate where this is implemented
+2. Explain the algorithm or technique in plain English first
+3. Walk through the code line by line for the key parts
+4. Explain why they chose this approach over alternatives
+5. What would break if I changed [specific aspect]?
+
+Context: [I'm learning [technique] and want a real-world reference implementation, not a toy example. Connect it to underlying CS concepts where useful.]
+```
+
+### Socratic Check-In
+
+```
+I've read through [files/modules] in the uploaded [repo-name]. Test my understanding:
+
+1. Ask me 5-7 questions that check whether I actually get it, not just whether I recognise the vocabulary
+2. Start with conceptual questions, then specific implementation questions
+3. After each answer, tell me if I'm right, partially right, or wrong—and fill in what I missed
+4. At the end, score me and point to what I should re-read
+
+Don't go easy on me. I want to know if I'm actually learning or just skimming.
+```
+
+### Compare to How I Would Build It
+
+```
+I've uploaded [repo-name] which implements [what it does].
+
+Before I read it in detail, I want to reason about the design space:
+
+1. Describe, at a high level, how this codebase solves the problem (2-3 paragraphs, no code)
+2. List 3-4 plausible alternative approaches someone could have taken
+3. For each alternative, note the trade-offs vs. what this repo does
+4. Which approach would you have recommended for [my context, e.g. "a single-node system with <1M ops/sec"] and why?
+
+Context: [I'm building intuition for design decisions, not just learning this specific codebase. I want to see the tree of choices, not just the path they took.]
+```
+
+### Build a Minimal Version
+
+```
+I've uploaded [repo-name]. I want to learn by rebuilding a stripped-down version.
+
+1. Identify the core 20% that delivers 80% of the value
+2. List the features I should IGNORE in my minimal version
+3. Suggest a sequence: what to build first, what to add next
+4. For each milestone, point me to the parts of the original codebase worth studying at that stage
+
+Context: [My goal isn't to replicate the repo—it's to understand it deeply by building something in its shape. I'll throw my version away.]
 ```
 
 ---
