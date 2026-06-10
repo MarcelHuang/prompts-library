@@ -1,106 +1,72 @@
+# Starting from Zero
 
-How do I build a business from scratch by teaching programming?
+If you’re starting from zero, the worst thing you can do is ask random questions. You want a fixed sequence of prompts that walks you from “no idea” to “first dollars in the bank.”
 
-You build it the same way I built my first gym business: one clear offer, one simple funnel, and a disgusting amount of outreach.
+Use these in order. Don’t skip.
 
-Here’s the play I’d run if I were you.
+---
 
-1. Pick a narrow avatar and outcome
+## Prompt 1: Choose the right business model & niche
 
-You cannot sell “programming lessons.” That’s a commodity. [$100M Offers, Page 34]
+> “Here is my background: skills, experience, certificates, what people already ask me for help with, my current job, my location, my realistic weekly hours, and how much cash I have to start. I want a simple service business that can get to $X/month within 90 days with near‑zero capital. Based on your frameworks, which 1–2 business models and niches should I focus on first, and why?”
 
-Pick ONE:
+This makes me pick a single vehicle that fits your constraints.
 
-• Career‑switchers who want a junior web dev job  
-• CS grads who still can’t pass coding interviews  
-• Self‑taught devs stuck at “tutorial hell”
+---
 
-Example we’ll use:  
-Avatar: Career‑switchers (22–35) who already know basic HTML/CSS and a bit of JS.  
-Outcome: “Land your first paid junior web dev job in 16 weeks.”
+## Prompt 2: Define avatar and painful problem
 
-If you get the outcome right, you can be average at sales and still win. [$100M Offers, Page 42]
+> “Given the niche/model you suggested, help me define a single specific avatar and their top 3 most painful problems in their own words. I’ll paste what I think below. Rewrite it using your frameworks so it’s clear, narrow, and high value.”
 
-2. Build a Grand Slam Offer (not hourly tutoring)
+Good markets + clear problems precede good offers. [$100M Offers, Page 36], [$100M Offers, Page 42]
 
-No offer = no business. Weak offer = weak business. [$100M Offers, Page 22]
+---
 
-Offer:  
-“16‑Week Junior Dev Launch Program” – 1:1 + tiny group
+## Prompt 3: Build my Grand Slam Offer
 
-Core:
+> “Using your Grand Slam Offer framework, build one offer for this avatar that solves this main problem. I need: deliverables, bonuses, timeline, price, guarantee, and how we reduce effort/risk for the client as much as possible.”
 
-• 2x / week live sessions (1 skill lesson, 1 project/code review)
-• Weekly milestones: each week they ship something concrete
-• 2 portfolio projects built together (you provide scoped templates)
-• Async support + code review via chat (business hours response)
+Everything starts with the offer; it’s literally what we trade for money. [$100M Offers, Page 8]  
+Your goal: “so good they feel dumb saying no.” [$100M Offers, Page 77]
 
-Bonuses (this is where the value explodes): [$100M Offers, Page 77]
+---
 
-1. Job Assets Pack: You rebuild their LinkedIn, resume, GitHub.
-2. Interview Sprint: Bank of 100+ common questions + 4 mock interviews.
-3. Accountability System: Weekly scorecard and check‑ins; miss 2 weeks, you call them.
-4. “Done‑With‑You” Applications: You edit their first 20 applications and outreach scripts.
+## Prompt 4: Design my simple money model
 
-Risk reversal (simple to start):
+> “Design a simple money model to get from zero to $10k/month using this offer: main offer, any logical upsell, simple downsell, and a basic continuity idea. Assume I’m solo and fulfillment time is limited. Keep it as simple as possible.”
 
-• “If after 30 days you’ve done the work and don’t feel clearly more confident and capable, I’ll refund you.”
+This forces a real path from first sale to a real income, not just “one product.”
 
-Price:
+---
 
-• Market 1:1 coding is often 40–100+ per hour. Instead of $40/hr, sell the transformation.  
-• Start at $1,000 for 16 weeks, get 3–5 wins, then raise by $250 until sales drop.
+## Prompt 5: 30-day Rule of 100 lead plan
 
-This is “unscalable” attention packaged at a premium, exactly like the Fast Cash examples. [$100M Playbook Fast Cash, Page 10],[$100M Playbook Fast Cash, Page 11]
+> “Given this avatar and offer, build a 30-day ‘Rule of 100’ plan: 100 primary actions per day using 1–2 channels I can realistically do (e.g., DMs, cold email, content). Spell out exactly what to do daily and what to track.”
 
-3. Simple funnel: DM → Call → Close
+Rule of 100 = 100 meaningful ads / reach-outs per day for 100 days. It is brutally effective if you actually do it. [$100M Leads, Page 155], [$100M Leads, Page 156]
 
-You do NOT need fancy tech.
+---
 
-• One simple page: who it’s for, outcome, what’s included, price range “from $1k.”
-• Button: “Apply for a free Dev Gameplan Call”
-• Short form: where they are now, goal, timeline, tech stack, budget.
-• Calendar link for 45‑min Zoom.
+## Prompt 6: Script my sales & follow-up
 
-On the call:
+> “Create a simple step-by-step sales process for me: how I book calls/DM closes, qualification questions, a base script, and a follow-up cadence for people who don’t answer or don’t buy right away.”
 
-1. Clarify goal and deadline.  
-2. Dig into why they failed on their own.  
-3. Show your 16‑week roadmap.  
-4. Present price and guarantee.  
-5. Ask, “Want my help doing this?” Then shut up.
+Think availability, speed, personalization, and volume in your follow up. [$100M Playbook Lead Nurture, Page 11]
 
-4. Get your first students with the Rule of 100
+---
 
-You are demand‑constrained. So your full‑time job is getting conversations.
+## Prompt 7: Design fulfillment + proof collection
 
-Rule of 100: 100 “primary actions” a day for 100 days. [$100M Leads, Page 155]
+> “Help me design a repeatable delivery system for this offer so I can confidently promise [specific result] in [time frame]. Include: onboarding steps, weekly cadence with clients, what I track, and exactly how/when I ask for testimonials and referrals.”
 
-For you:
+You want the business printing proof like a machine, not hoping for it. [$100M Playbook Marketing Machine, Page 9]
 
-• 50 warm reach outs / day:  
-• LinkedIn: ex‑coworkers, bootcamp grads, college friends, meetup groups.  
-• Script: “Hey, I’m running a 16‑week program to help career‑switchers land junior web dev roles. Know anyone trying to break in who’d want my free Dev Gameplan call?”
-• 50 minutes content / day:  
-• Post 1–2 short breakdowns: “Here’s how I’d improve this junior dev resume,” “Fixing this JavaScript bug in 3 minutes.”  
-• CTA: “DM me ‘JOB’ if you want my 16‑week plan to get your first dev role.”
+---
 
-Cold / warm reach outs + content are explicitly listed as Rule of 100 activities. [$100M Leads, Page 156]
+## Prompt 8: Build my weekly operating system
 
-You will learn more in 10 days of 100 reach outs than from any course. [$100M Leads, Page 69]
+> “Given everything above, build me a simple weekly operating system: what metrics I track, what I review each week, and what decisions I should make based on those numbers for the next 12 weeks.”
 
-5. Daily execution schedule (first 90 days)
+Last thing: don’t overthink this. When I started, I couldn’t give away a $99 membership. What saved me was fixing the offer and cranking volume, not brainstorming logos.
 
-• 3 hrs: outreach (hit 50 DMs / emails)  
-• 1 hr: create and post content  
-• 2 hrs: free calls / sales calls  
-• 2–3 hrs: fulfill for existing students, improve curriculum, collect testimonials
-
-Do that for 90 days. Adjust pricing every 5–10 sales. Keep the same offer; iterate the message and your skill.
-
-I built everything I have by doing the boring work longer than everyone else. This is your version of that: one offer, one funnel, Rule of 100 until your calendar is full.
-
-If you tell me:
-• your current skill level,
-• who you’d most like to teach (kids, students, career‑switchers),
-I can write the exact sales script and first 3 weeks of curriculum next.
+Your next move: send me Prompt 1 with your real details. Then we walk the stack.
